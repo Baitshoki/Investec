@@ -1,0 +1,6 @@
+C:\Work\tech-test-master\TechTest\AnyCompany\bin\Debug\AnyCompany.dll
+C:\Work\tech-test-master\TechTest\AnyCompany\bin\Debug\AnyCompany.pdb
+C:\Work\tech-test-master\TechTest\AnyCompany\obj\Debug\AnyCompany.csproj.CoreCompileInputs.cache
+C:\Work\tech-test-master\TechTest\AnyCompany\obj\Debug\AnyCompany.dll
+C:\Work\tech-test-master\TechTest\AnyCompany\obj\Debug\AnyCompany.pdb
+C:\Work\tech-test-master\TechTest\AnyCompany\obj\Debug\AnyCompany.csprojAssemblyReference.cache
